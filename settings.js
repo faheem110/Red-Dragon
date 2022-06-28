@@ -1,6 +1,6 @@
 //════════════(00)═══════════════════════════════════════//
 //
-//                              FSAYANG PHYA
+//                              K.PRABHASHA
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════(00)════════════════//
@@ -20,7 +20,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemSG = 'MY NAME IS JELEK'🔥
+global.alivemSG = 'My name is RED DRAGON🔥
 My Creator is FSAYANG PHYA😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+923048080917','+628577554944'] //Owner number in aive msg
@@ -43,7 +43,7 @@ global.sp = '⭔' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/faheem110!
-global.footer = 'fsayang phya.' // DO NOT CHANGE!
+global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
